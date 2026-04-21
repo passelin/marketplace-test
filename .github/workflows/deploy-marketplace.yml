@@ -23,4 +23,4 @@ jobs:
           marketplace-name: marketplace
           marketplace-owner-name: passelin
           site-title: 'Agent Marketplace'
-          base-path: /marketplace/
+          base-path: /marketplace-test/
