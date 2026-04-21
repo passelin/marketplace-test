@@ -1,0 +1,12 @@
+{
+  "_schema": "marketplace-ui/1.0",
+  "generated": "2026-04-21T04:25:03.819Z",
+  "marketplaceName": "marketplace",
+  "description": "",
+  "counts": {
+    "total": 71,
+    "local": 62,
+    "external": 9,
+    "remote": 0
+  }
+}
