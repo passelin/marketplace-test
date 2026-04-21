@@ -1,0 +1,29 @@
+name: Update marketplace.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'plugins/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: passelin/agent-marketplace-pages@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          plugin-root: plugins
+          plugin-json-path: .github/plugin/plugin.json
+          marketplace-json: .github/plugin/marketplace.json
+          marketplace-name: marketplace
+          marketplace-owner-name: passelin
+          dry-run: 'true'

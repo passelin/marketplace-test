@@ -1,0 +1,26 @@
+name: Deploy marketplace site
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: passelin/agent-marketplace-pages@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          marketplace-json: .github/plugin/marketplace.json
+          marketplace-name: marketplace
+          marketplace-owner-name: passelin
+          site-title: 'Agent Marketplace'
+          base-path: /marketplace/
