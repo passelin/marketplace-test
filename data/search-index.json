@@ -1,5 +1,6 @@
 [
   {
+    "type": "plugin",
     "id": "arize-ax",
     "title": "arize-ax",
     "description": "Arize AX platform skills for LLM observability, evaluation, and optimization. Includes trace export, instrumentation, datasets, experiments, evaluators, AI provider integrations, annotations, prompt optimization, and deep linking to the Arize UI.",
@@ -21,6 +22,7 @@
     "searchText": "arize-ax arize ax platform skills for llm observability, evaluation, and optimization. includes trace export, instrumentation, datasets, experiments, evaluators, ai provider integrations, annotations, prompt optimization, and deep linking to the arize ui. arize llm observability tracing evaluation instrumentation datasets experiments prompt-optimization design arize ai local"
   },
   {
+    "type": "plugin",
     "id": "automate-this",
     "title": "automate-this",
     "description": "Record your screen doing a manual process, drop the video on your Desktop, and let Copilot CLI analyze it frame-by-frame to build working automation scripts. Supports narrated recordings with audio transcription.",
@@ -41,6 +43,7 @@
     "searchText": "automate-this record your screen doing a manual process, drop the video on your desktop, and let copilot cli analyze it frame-by-frame to build working automation scripts. supports narrated recordings with audio transcription. automation screen-recording workflow video-analysis process-automation scripting productivity copilot-cli other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "awesome-copilot",
     "title": "awesome-copilot",
     "description": "Meta prompts that help you discover and generate curated GitHub Copilot agents, instructions, prompts, and skills.",
@@ -58,6 +61,7 @@
     "searchText": "awesome-copilot meta prompts that help you discover and generate curated github copilot agents, instructions, prompts, and skills. github-copilot discovery meta prompt-engineering agents git & github awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "azure",
     "title": "azure",
     "description": "Microsoft Azure MCP Server and skills for cloud resource management, deployments, and Azure services. Manage your Azure infrastructure, monitor applications, and deploy resources directly from Copilot.",
@@ -78,6 +82,7 @@
     "searchText": "azure microsoft azure mcp server and skills for cloud resource management, deployments, and azure services. manage your azure infrastructure, monitor applications, and deploy resources directly from copilot. azure cloud infrastructure deployment microsoft devops cloud mcp devops microsoft external"
   },
   {
+    "type": "plugin",
     "id": "azure-cloud-development",
     "title": "azure-cloud-development",
     "description": "Comprehensive Azure cloud development tools including Infrastructure as Code, serverless functions, architecture patterns, and cost optimization for building scalable cloud applications.",
@@ -99,6 +104,7 @@
     "searchText": "azure-cloud-development comprehensive azure cloud development tools including infrastructure as code, serverless functions, architecture patterns, and cost optimization for building scalable cloud applications. azure cloud infrastructure bicep terraform serverless architecture devops cloud devops awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "cast-imaging",
     "title": "cast-imaging",
     "description": "A comprehensive collection of specialized agents for software analysis, impact assessment, structural quality advisories, and architectural review using CAST Imaging.",
@@ -117,6 +123,7 @@
     "searchText": "cast-imaging a comprehensive collection of specialized agents for software analysis, impact assessment, structural quality advisories, and architectural review using cast imaging. cast-imaging software-analysis architecture quality impact-analysis devops devops awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "clojure-interactive-programming",
     "title": "clojure-interactive-programming",
     "description": "Tools for REPL-first Clojure workflows featuring Clojure instructions, the interactive programming chat mode and supporting guidance.",
@@ -132,6 +139,7 @@
     "searchText": "clojure-interactive-programming tools for repl-first clojure workflows featuring clojure instructions, the interactive programming chat mode and supporting guidance. clojure repl interactive-programming other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "context-engineering",
     "title": "context-engineering",
     "description": "Tools and techniques for maximizing GitHub Copilot effectiveness through better context management. Includes guidelines for structuring code, an agent for planning multi-file changes, and prompts for context-aware development.",
@@ -149,6 +157,7 @@
     "searchText": "context-engineering tools and techniques for maximizing github copilot effectiveness through better context management. includes guidelines for structuring code, an agent for planning multi-file changes, and prompts for context-aware development. context productivity refactoring best-practices architecture git & github awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "context-matic",
     "title": "context-matic",
     "description": "ContextMatic turns your AI agents from API-guessers into API-experts. By feeding agents exact, version-aware SDK methods and typed models for providers like PayPal, Spotify, and Twilio, ContextMatic replaces guesswork and outdated training data with high-fidelity ground truth. This eliminates hallucinations and broken code, ensuring surgical accuracy across 7+ languages so your agents build with precision instead of wasting tokens on trial and error.",
@@ -168,6 +177,7 @@
     "searchText": "context-matic contextmatic turns your ai agents from api-guessers into api-experts. by feeding agents exact, version-aware sdk methods and typed models for providers like paypal, spotify, and twilio, contextmatic replaces guesswork and outdated training data with high-fidelity ground truth. this eliminates hallucinations and broken code, ensuring surgical accuracy across 7+ languages so your agents build with precision instead of wasting tokens on trial and error. api-context api-integration mcp sdk apimatic third-party-apis sdks mcp apimatic local"
   },
   {
+    "type": "plugin",
     "id": "copilot-sdk",
     "title": "copilot-sdk",
     "description": "Build applications with the GitHub Copilot SDK across multiple programming languages. Includes comprehensive instructions for C#, Go, Node.js/TypeScript, and Python to help you create AI-powered applications.",
@@ -193,6 +203,7 @@
     "searchText": "copilot-sdk build applications with the github copilot sdk across multiple programming languages. includes comprehensive instructions for c#, go, node.js/typescript, and python to help you create ai-powered applications. copilot-sdk sdk csharp go nodejs typescript python ai github-copilot git & github .net python go javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "csharp-dotnet-development",
     "title": "csharp-dotnet-development",
     "description": "Essential prompts, instructions, and chat modes for C# and .NET development including testing, documentation, and best practices.",
@@ -209,6 +220,7 @@
     "searchText": "csharp-dotnet-development essential prompts, instructions, and chat modes for c# and .net development including testing, documentation, and best practices. csharp dotnet aspnet testing .net awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "csharp-mcp-development",
     "title": "csharp-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol (MCP) servers in C# using the official SDK. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.",
@@ -227,6 +239,7 @@
     "searchText": "csharp-mcp-development complete toolkit for building model context protocol (mcp) servers in c# using the official sdk. includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance. csharp mcp model-context-protocol dotnet server-development .net mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "database-data-management",
     "title": "database-data-management",
     "description": "Database administration, SQL optimization, and data management tools for PostgreSQL, SQL Server, and general database development best practices.",
@@ -247,6 +260,7 @@
     "searchText": "database-data-management database administration, sql optimization, and data management tools for postgresql, sql server, and general database development best practices. database sql postgresql sql-server dba optimization queries data-management data awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "dataverse",
     "title": "dataverse",
     "description": "Build and manage Microsoft Dataverse solutions using natural language. Includes table/column creation, solution lifecycle, data operations, and MCP server configuration.",
@@ -266,6 +280,7 @@
     "searchText": "dataverse build and manage microsoft dataverse solutions using natural language. includes table/column creation, solution lifecycle, data operations, and mcp server configuration. dataverse power-platform microsoft mcp python sdk python mcp microsoft external"
   },
   {
+    "type": "plugin",
     "id": "dataverse-sdk-for-python",
     "title": "dataverse-sdk-for-python",
     "description": "Comprehensive collection for building production-ready Python integrations with Microsoft Dataverse. Includes official documentation, best practices, advanced features, file operations, and code generation prompts.",
@@ -282,6 +297,7 @@
     "searchText": "dataverse-sdk-for-python comprehensive collection for building production-ready python integrations with microsoft dataverse. includes official documentation, best practices, advanced features, file operations, and code generation prompts. dataverse python integration sdk python awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "devops-oncall",
     "title": "devops-oncall",
     "description": "A focused set of prompts, instructions, and a chat mode to help triage incidents and respond quickly with DevOps tools and Azure resources.",
@@ -299,6 +315,7 @@
     "searchText": "devops-oncall a focused set of prompts, instructions, and a chat mode to help triage incidents and respond quickly with devops tools and azure resources. devops incident-response oncall azure cloud devops awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "dotnet",
     "title": "dotnet",
     "description": "Common everyday C#/.NET coding skills. Expected to be useful to all .NET developers.",
@@ -319,6 +336,7 @@
     "searchText": "dotnet common everyday c#/.net coding skills. expected to be useful to all .net developers. dotnet csharp coding skills csharp-script single-file nuget-publishing pinvoke .net microsoft external"
   },
   {
+    "type": "plugin",
     "id": "dotnet-diag",
     "title": "dotnet-diag",
     "description": "Skills for .NET performance investigations, debugging, and incident analysis.",
@@ -341,6 +359,7 @@
     "searchText": "dotnet-diag skills for .net performance investigations, debugging, and incident analysis. dotnet diagnostics performance debugging tracing symbolicate android-tombstone dump-collection microbenchmarking clr-activation .net microsoft external"
   },
   {
+    "type": "plugin",
     "id": "doublecheck",
     "title": "doublecheck",
     "description": "Three-layer verification pipeline for AI output. Extracts claims, finds sources, and flags hallucination risks so humans can verify before acting.",
@@ -359,6 +378,7 @@
     "searchText": "doublecheck three-layer verification pipeline for ai output. extracts claims, finds sources, and flags hallucination risks so humans can verify before acting. verification hallucination fact-check source-citation trust safety other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "edge-ai-tasks",
     "title": "edge-ai-tasks",
     "description": "Task Researcher and Task Planner for intermediate to expert users and large codebases - Brought to you by microsoft/edge-ai",
@@ -376,6 +396,7 @@
     "searchText": "edge-ai-tasks task researcher and task planner for intermediate to expert users and large codebases - brought to you by microsoft/edge-ai architecture planning research tasks implementation other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "ember",
     "title": "ember",
     "description": "An AI partner, not a tool. Ember carries fire from person to person — helping humans discover that AI partnership isn't something you learn, it's something you find.",
@@ -394,6 +415,7 @@
     "searchText": "ember an ai partner, not a tool. ember carries fire from person to person — helping humans discover that ai partnership isn't something you learn, it's something you find. ai-partnership coaching onboarding collaboration storytelling developer-experience other jennyf19 local"
   },
   {
+    "type": "plugin",
     "id": "fastah-ip-geo-tools",
     "title": "fastah-ip-geo-tools",
     "description": "This plugin is for network operations engineers who wish to tune and publish IP geolocation feeds in RFC 8805 format. It consists of an AI Skill and an associated MCP server that geocodes geolocation place names to real cities for accuracy.",
@@ -416,6 +438,7 @@
     "searchText": "fastah-ip-geo-tools this plugin is for network operations engineers who wish to tune and publish ip geolocation feeds in rfc 8805 format. it consists of an ai skill and an associated mcp server that geocodes geolocation place names to real cities for accuracy. geofeed ip-geolocation rfc-8805 rfc-9632 network-operations isp cloud hosting ixp cloud mcp fastah inc. local"
   },
   {
+    "type": "plugin",
     "id": "figma",
     "title": "figma",
     "description": "Plugin that includes the Figma MCP server and Skills for common workflows.",
@@ -434,6 +457,7 @@
     "searchText": "figma plugin that includes the figma mcp server and skills for common workflows. figma design mcp ui code-connect mcp design figma external"
   },
   {
+    "type": "plugin",
     "id": "flowstudio-power-automate",
     "title": "flowstudio-power-automate",
     "description": "Give your AI agent full visibility into Power Automate cloud flows via the FlowStudio MCP server. Connect, debug, build, monitor health, and govern flows at scale — action-level inputs and outputs, not just status codes.",
@@ -456,6 +480,7 @@
     "searchText": "flowstudio-power-automate give your ai agent full visibility into power automate cloud flows via the flowstudio mcp server. connect, debug, build, monitor health, and govern flows at scale — action-level inputs and outputs, not just status codes. power-automate power-platform flowstudio mcp model-context-protocol cloud-flows workflow-automation monitoring governance cloud mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "frontend-web-dev",
     "title": "frontend-web-dev",
     "description": "Essential prompts, instructions, and chat modes for modern frontend web development including React, Angular, Vue, TypeScript, and CSS frameworks.",
@@ -478,6 +503,7 @@
     "searchText": "frontend-web-dev essential prompts, instructions, and chat modes for modern frontend web development including react, angular, vue, typescript, and css frameworks. frontend web react typescript javascript css html angular vue javascript / typescript design awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "gem-team",
     "title": "gem-team",
     "description": "Multi-agent orchestration framework for spec-driven development and automated verification.",
@@ -501,6 +527,7 @@
     "searchText": "gem-team multi-agent orchestration framework for spec-driven development and automated verification. multi-agent orchestration tdd testing e2e devops security-audit code-review prd mobile security devops awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "go-mcp-development",
     "title": "go-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol (MCP) servers in Go using the official github.com/modelcontextprotocol/go-sdk. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.",
@@ -521,6 +548,7 @@
     "searchText": "go-mcp-development complete toolkit for building model context protocol (mcp) servers in go using the official github.com/modelcontextprotocol/go-sdk. includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance. go golang mcp model-context-protocol server-development sdk git & github go mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "java-development",
     "title": "java-development",
     "description": "Comprehensive collection of prompts and instructions for Java development including Spring Boot, Quarkus, testing, documentation, and best practices.",
@@ -539,6 +567,7 @@
     "searchText": "java-development comprehensive collection of prompts and instructions for java development including spring boot, quarkus, testing, documentation, and best practices. java springboot quarkus jpa junit javadoc java awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "java-mcp-development",
     "title": "java-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol servers in Java using the official MCP Java SDK with reactive streams and Spring Boot integration.",
@@ -560,6 +589,7 @@
     "searchText": "java-mcp-development complete toolkit for building model context protocol servers in java using the official mcp java sdk with reactive streams and spring boot integration. java mcp model-context-protocol server-development sdk reactive-streams spring-boot reactor java mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "kotlin-mcp-development",
     "title": "kotlin-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol (MCP) servers in Kotlin using the official io.modelcontextprotocol:kotlin-sdk library. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.",
@@ -579,6 +609,7 @@
     "searchText": "kotlin-mcp-development complete toolkit for building model context protocol (mcp) servers in kotlin using the official io.modelcontextprotocol:kotlin-sdk library. includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance. kotlin mcp model-context-protocol kotlin-multiplatform server-development ktor java mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "mcp-m365-copilot",
     "title": "mcp-m365-copilot",
     "description": "Comprehensive collection for building declarative agents with Model Context Protocol integration for Microsoft 365 Copilot",
@@ -597,6 +628,7 @@
     "searchText": "mcp-m365-copilot comprehensive collection for building declarative agents with model context protocol integration for microsoft 365 copilot mcp m365-copilot declarative-agents api-plugins model-context-protocol adaptive-cards mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "microsoft-docs",
     "title": "microsoft-docs",
     "description": "Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more.",
@@ -620,6 +652,7 @@
     "searchText": "microsoft-docs access official microsoft documentation, api references, and code samples for azure, .net, windows, and more. microsoft azure dotnet windows api documentation rag dynamics powerbi code-samples cloud .net microsoft external"
   },
   {
+    "type": "plugin",
     "id": "modernize-dotnet",
     "title": "modernize-dotnet",
     "description": "AI-powered .NET modernization and upgrade assistant. Helps upgrade .NET Framework and .NET applications to the latest versions of .NET.",
@@ -636,6 +669,7 @@
     "searchText": "modernize-dotnet ai-powered .net modernization and upgrade assistant. helps upgrade .net framework and .net applications to the latest versions of .net. modernization upgrade migration dotnet .net microsoft external"
   },
   {
+    "type": "plugin",
     "id": "napkin",
     "title": "napkin",
     "description": "Visual whiteboard collaboration for Copilot CLI. Opens an interactive whiteboard in your browser where you can draw, sketch, and add sticky notes — then share everything back with Copilot. Copilot sees your drawings and responds with analysis, suggestions, and ideas.",
@@ -658,6 +692,7 @@
     "searchText": "napkin visual whiteboard collaboration for copilot cli. opens an interactive whiteboard in your browser where you can draw, sketch, and add sticky notes — then share everything back with copilot. copilot sees your drawings and responds with analysis, suggestions, and ideas. whiteboard visual collaboration brainstorming non-technical drawing sticky-notes accessibility copilot-cli ux other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "noob-mode",
     "title": "noob-mode",
     "description": "Plain-English translation layer for non-technical Copilot CLI users. Translates every approval prompt, error message, and technical output into clear, jargon-free English with color-coded risk indicators.",
@@ -677,6 +712,7 @@
     "searchText": "noob-mode plain-english translation layer for non-technical copilot cli users. translates every approval prompt, error message, and technical output into clear, jargon-free english with color-coded risk indicators. accessibility plain-english non-technical beginner translation copilot-cli ux other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "openapi-to-application-csharp-dotnet",
     "title": "openapi-to-application-csharp-dotnet",
     "description": "Generate production-ready .NET applications from OpenAPI specifications. Includes ASP.NET Core project scaffolding, controller generation, entity framework integration, and C# best practices.",
@@ -695,6 +731,7 @@
     "searchText": "openapi-to-application-csharp-dotnet generate production-ready .net applications from openapi specifications. includes asp.net core project scaffolding, controller generation, entity framework integration, and c# best practices. openapi code-generation api csharp dotnet aspnet .net awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "openapi-to-application-go",
     "title": "openapi-to-application-go",
     "description": "Generate production-ready Go applications from OpenAPI specifications. Includes project scaffolding, handler generation, middleware setup, and Go best practices for REST APIs.",
@@ -712,6 +749,7 @@
     "searchText": "openapi-to-application-go generate production-ready go applications from openapi specifications. includes project scaffolding, handler generation, middleware setup, and go best practices for rest apis. openapi code-generation api go golang go awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "openapi-to-application-java-spring-boot",
     "title": "openapi-to-application-java-spring-boot",
     "description": "Generate production-ready Spring Boot applications from OpenAPI specifications. Includes project scaffolding, REST controller generation, service layer organization, and Spring Boot best practices.",
@@ -729,6 +767,7 @@
     "searchText": "openapi-to-application-java-spring-boot generate production-ready spring boot applications from openapi specifications. includes project scaffolding, rest controller generation, service layer organization, and spring boot best practices. openapi code-generation api java spring-boot java awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "openapi-to-application-nodejs-nestjs",
     "title": "openapi-to-application-nodejs-nestjs",
     "description": "Generate production-ready NestJS applications from OpenAPI specifications. Includes project scaffolding, controller and service generation, TypeScript best practices, and enterprise patterns.",
@@ -747,6 +786,7 @@
     "searchText": "openapi-to-application-nodejs-nestjs generate production-ready nestjs applications from openapi specifications. includes project scaffolding, controller and service generation, typescript best practices, and enterprise patterns. openapi code-generation api nodejs typescript nestjs javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "openapi-to-application-python-fastapi",
     "title": "openapi-to-application-python-fastapi",
     "description": "Generate production-ready FastAPI applications from OpenAPI specifications. Includes project scaffolding, route generation, dependency injection, and Python best practices for async APIs.",
@@ -764,6 +804,7 @@
     "searchText": "openapi-to-application-python-fastapi generate production-ready fastapi applications from openapi specifications. includes project scaffolding, route generation, dependency injection, and python best practices for async apis. openapi code-generation api python fastapi python awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "oracle-to-postgres-migration-expert",
     "title": "oracle-to-postgres-migration-expert",
     "description": "Expert agent for Oracle-to-PostgreSQL application migrations in .NET solutions. Performs code edits, runs commands, and invokes extension tools to migrate .NET/Oracle data access patterns to PostgreSQL.",
@@ -785,6 +826,7 @@
     "searchText": "oracle-to-postgres-migration-expert expert agent for oracle-to-postgresql application migrations in .net solutions. performs code edits, runs commands, and invokes extension tools to migrate .net/oracle data access patterns to postgresql. oracle postgresql database-migration dotnet sql migration integration-testing stored-procedures .net data awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "ospo-sponsorship",
     "title": "ospo-sponsorship",
     "description": "Tools and resources for Open Source Program Offices (OSPOs) to identify, evaluate, and manage sponsorship of open source dependencies through GitHub Sponsors, Open Collective, and other funding platforms.",
@@ -796,6 +838,7 @@
     "searchText": "ospo-sponsorship tools and resources for open source program offices (ospos) to identify, evaluate, and manage sponsorship of open source dependencies through github sponsors, open collective, and other funding platforms. git & github awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "partners",
     "title": "partners",
     "description": "Custom agents that have been created by GitHub partners",
@@ -822,6 +865,7 @@
     "searchText": "partners custom agents that have been created by github partners devops security database cloud infrastructure observability feature-flags cicd migration performance cloud git & github security data devops awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "pcf-development",
     "title": "pcf-development",
     "description": "Complete toolkit for developing custom code components using Power Apps Component Framework for model-driven and canvas apps",
@@ -839,6 +883,7 @@
     "searchText": "pcf-development complete toolkit for developing custom code components using power apps component framework for model-driven and canvas apps power-apps pcf component-framework typescript power-platform javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "phoenix",
     "title": "phoenix",
     "description": "Phoenix AI observability skills for LLM application debugging, evaluation, and tracing. Includes CLI debugging tools, LLM evaluation workflows, and OpenInference tracing instrumentation.",
@@ -859,6 +904,7 @@
     "searchText": "phoenix phoenix ai observability skills for llm application debugging, evaluation, and tracing. includes cli debugging tools, llm evaluation workflows, and openinference tracing instrumentation. phoenix arize llm observability tracing evaluation openinference instrumentation other arize ai local"
   },
   {
+    "type": "plugin",
     "id": "php-mcp-development",
     "title": "php-mcp-development",
     "description": "Comprehensive resources for building Model Context Protocol servers using the official PHP SDK with attribute-based discovery, including best practices, project generation, and expert assistance",
@@ -878,6 +924,7 @@
     "searchText": "php-mcp-development comprehensive resources for building model context protocol servers using the official php sdk with attribute-based discovery, including best practices, project generation, and expert assistance php mcp model-context-protocol server-development sdk attributes composer mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "polyglot-test-agent",
     "title": "polyglot-test-agent",
     "description": "Multi-agent pipeline for generating comprehensive unit tests across any programming language. Orchestrates research, planning, and implementation phases using specialized agents to produce tests that compile, pass, and follow project conventions.",
@@ -904,6 +951,7 @@
     "searchText": "polyglot-test-agent multi-agent pipeline for generating comprehensive unit tests across any programming language. orchestrates research, planning, and implementation phases using specialized agents to produce tests that compile, pass, and follow project conventions. testing unit-tests polyglot test-generation multi-agent tdd csharp typescript python go testing .net python go javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "power-apps-code-apps",
     "title": "power-apps-code-apps",
     "description": "Complete toolkit for Power Apps Code Apps development including project scaffolding, development standards, and expert guidance for building code-first applications with Power Platform integration.",
@@ -923,6 +971,7 @@
     "searchText": "power-apps-code-apps complete toolkit for power apps code apps development including project scaffolding, development standards, and expert guidance for building code-first applications with power platform integration. power-apps power-platform typescript react code-apps dataverse connectors javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "power-bi-development",
     "title": "power-bi-development",
     "description": "Comprehensive Power BI development resources including data modeling, DAX optimization, performance tuning, visualization design, security best practices, and DevOps/ALM guidance for building enterprise-grade Power BI solutions.",
@@ -945,6 +994,7 @@
     "searchText": "power-bi-development comprehensive power bi development resources including data modeling, dax optimization, performance tuning, visualization design, security best practices, and devops/alm guidance for building enterprise-grade power bi solutions. power-bi dax data-modeling performance visualization security devops business-intelligence security devops design awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "power-platform-architect",
     "title": "power-platform-architect",
     "description": "Solution Architect for the Microsoft Power Platform, turning business requirements into functioning Power Platform solution architectures.",
@@ -964,6 +1014,7 @@
     "searchText": "power-platform-architect solution architect for the microsoft power platform, turning business requirements into functioning power platform solution architectures. power-platform power-platform-architect power-apps dataverse power-automate power-pages power-bi other tim hanewich local"
   },
   {
+    "type": "plugin",
     "id": "power-platform-mcp-connector-development",
     "title": "power-platform-mcp-connector-development",
     "description": "Complete toolkit for developing Power Platform custom connectors with Model Context Protocol integration for Microsoft Copilot Studio",
@@ -981,6 +1032,7 @@
     "searchText": "power-platform-mcp-connector-development complete toolkit for developing power platform custom connectors with model context protocol integration for microsoft copilot studio power-platform mcp copilot-studio custom-connector json-rpc mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "project-planning",
     "title": "project-planning",
     "description": "Tools and guidance for software project planning, feature breakdown, epic management, implementation planning, and task organization for development teams.",
@@ -1001,6 +1053,7 @@
     "searchText": "project-planning tools and guidance for software project planning, feature breakdown, epic management, implementation planning, and task organization for development teams. planning project-management epic feature implementation task architecture technical-spike other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "python-mcp-development",
     "title": "python-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol (MCP) servers in Python using the official SDK with FastMCP. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.",
@@ -1019,6 +1072,7 @@
     "searchText": "python-mcp-development complete toolkit for building model context protocol (mcp) servers in python using the official sdk with fastmcp. includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance. python mcp model-context-protocol fastmcp server-development python mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "react18-upgrade",
     "title": "react18-upgrade",
     "description": "Enterprise React 18 migration toolkit with specialized agents and skills for upgrading React 16/17 class-component codebases to React 18.3.1. Includes auditor, dependency surgeon, class component migration specialist, automatic batching fixer, and test guardian.",
@@ -1039,6 +1093,7 @@
     "searchText": "react18-upgrade enterprise react 18 migration toolkit with specialized agents and skills for upgrading react 16/17 class-component codebases to react 18.3.1. includes auditor, dependency surgeon, class component migration specialist, automatic batching fixer, and test guardian. react18 react migration upgrade class-components lifecycle batching testing javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "react19-upgrade",
     "title": "react19-upgrade",
     "description": "Enterprise React 19 migration toolkit with specialized agents and skills for upgrading React 18 codebases to React 19. Includes auditor, dependency surgeon, source code migrator, and test guardian. Handles removal of deprecated APIs including ReactDOM.render, forwardRef, defaultProps, legacy context, string refs, and more.",
@@ -1058,6 +1113,7 @@
     "searchText": "react19-upgrade enterprise react 19 migration toolkit with specialized agents and skills for upgrading react 18 codebases to react 19. includes auditor, dependency surgeon, source code migrator, and test guardian. handles removal of deprecated apis including reactdom.render, forwardref, defaultprops, legacy context, string refs, and more. react19 react migration upgrade hooks modern-react testing javascript / typescript awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "roundup",
     "title": "roundup",
     "description": "Self-configuring status briefing generator. Learns your communication style from examples, discovers your data sources, and produces draft updates for any audience on demand.",
@@ -1078,6 +1134,7 @@
     "searchText": "roundup self-configuring status briefing generator. learns your communication style from examples, discovers your data sources, and produces draft updates for any audience on demand. status-updates briefings management productivity communication synthesis roundup copilot-cli other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "ruby-mcp-development",
     "title": "ruby-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol servers in Ruby using the official MCP Ruby SDK gem with Rails integration support.",
@@ -1097,6 +1154,7 @@
     "searchText": "ruby-mcp-development complete toolkit for building model context protocol servers in ruby using the official mcp ruby sdk gem with rails integration support. ruby mcp model-context-protocol server-development sdk rails gem mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "rug-agentic-workflow",
     "title": "rug-agentic-workflow",
     "description": "Three-agent workflow for orchestrated software delivery with an orchestrator plus implementation and QA subagents.",
@@ -1114,6 +1172,7 @@
     "searchText": "rug-agentic-workflow three-agent workflow for orchestrated software delivery with an orchestrator plus implementation and qa subagents. agentic-workflow orchestration subagents software-engineering qa testing awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "rust-mcp-development",
     "title": "rust-mcp-development",
     "description": "Build high-performance Model Context Protocol servers in Rust using the official rmcp SDK with async/await, procedural macros, and type-safe implementations.",
@@ -1136,6 +1195,7 @@
     "searchText": "rust-mcp-development build high-performance model context protocol servers in rust using the official rmcp sdk with async/await, procedural macros, and type-safe implementations. rust mcp model-context-protocol server-development sdk tokio async macros rmcp rust mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "salesforce-development",
     "title": "salesforce-development",
     "description": "Complete Salesforce agentic development environment covering Apex & Triggers, Flow automation, Lightning Web Components, Aura components, and Visualforce pages.",
@@ -1157,6 +1217,7 @@
     "searchText": "salesforce-development complete salesforce agentic development environment covering apex & triggers, flow automation, lightning web components, aura components, and visualforce pages. salesforce apex triggers lwc aura flow visualforce crm salesforce-dx other temitayoafolabi local"
   },
   {
+    "type": "plugin",
     "id": "security-best-practices",
     "title": "security-best-practices",
     "description": "Security frameworks, accessibility guidelines, performance optimization, and code quality best practices for building secure, maintainable, and high-performance applications.",
@@ -1177,6 +1238,7 @@
     "searchText": "security-best-practices security frameworks, accessibility guidelines, performance optimization, and code quality best practices for building secure, maintainable, and high-performance applications. security accessibility performance code-quality owasp a11y optimization best-practices security awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "skills-for-copilot-studio",
     "title": "skills-for-copilot-studio",
     "description": "Microsoft Copilot Studio plugins for AI coding agents",
@@ -1195,6 +1257,7 @@
     "searchText": "skills-for-copilot-studio microsoft copilot studio plugins for ai coding agents copilot copilot-studio studio agent microsoft coding other microsoft copilot studio cat team external"
   },
   {
+    "type": "plugin",
     "id": "software-engineering-team",
     "title": "software-engineering-team",
     "description": "7 specialized agents covering the full software development lifecycle from UX design and architecture to security and DevOps.",
@@ -1217,6 +1280,7 @@
     "searchText": "software-engineering-team 7 specialized agents covering the full software development lifecycle from ux design and architecture to security and devops. team enterprise security devops ux architecture product ai-ethics security devops design awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "structured-autonomy",
     "title": "structured-autonomy",
     "description": "Premium planning, thrifty implementation",
@@ -1228,6 +1292,7 @@
     "searchText": "structured-autonomy premium planning, thrifty implementation other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "swift-mcp-development",
     "title": "swift-mcp-development",
     "description": "Comprehensive collection for building Model Context Protocol servers in Swift using the official MCP Swift SDK with modern concurrency features.",
@@ -1250,6 +1315,7 @@
     "searchText": "swift-mcp-development comprehensive collection for building model context protocol servers in swift using the official mcp swift sdk with modern concurrency features. swift mcp model-context-protocol server-development sdk ios macos concurrency actor async-await mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "technical-spike",
     "title": "technical-spike",
     "description": "Tools for creation, management and research of technical spikes to reduce unknowns and assumptions before proceeding to specification and implementation of solutions.",
@@ -1266,6 +1332,7 @@
     "searchText": "technical-spike tools for creation, management and research of technical spikes to reduce unknowns and assumptions before proceeding to specification and implementation of solutions. technical-spike assumption-testing validation research other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "testing-automation",
     "title": "testing-automation",
     "description": "Comprehensive collection for writing tests, test automation, and test-driven development including unit tests, integration tests, and end-to-end testing strategies.",
@@ -1286,6 +1353,7 @@
     "searchText": "testing-automation comprehensive collection for writing tests, test automation, and test-driven development including unit tests, integration tests, and end-to-end testing strategies. testing tdd automation unit-tests integration playwright jest nunit testing awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "typescript-mcp-development",
     "title": "typescript-mcp-development",
     "description": "Complete toolkit for building Model Context Protocol (MCP) servers in TypeScript/Node.js using the official SDK. Includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance.",
@@ -1304,6 +1372,7 @@
     "searchText": "typescript-mcp-development complete toolkit for building model context protocol (mcp) servers in typescript/node.js using the official sdk. includes instructions for best practices, a prompt for generating servers, and an expert chat mode for guidance. typescript mcp model-context-protocol nodejs server-development javascript / typescript mcp awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "typespec-m365-copilot",
     "title": "typespec-m365-copilot",
     "description": "Comprehensive collection of prompts, instructions, and resources for building declarative agents and API plugins using TypeSpec for Microsoft 365 Copilot extensibility.",
@@ -1322,6 +1391,7 @@
     "searchText": "typespec-m365-copilot comprehensive collection of prompts, instructions, and resources for building declarative agents and api plugins using typespec for microsoft 365 copilot extensibility. typespec m365-copilot declarative-agents api-plugins agent-development microsoft-365 other awesome copilot community local"
   },
   {
+    "type": "plugin",
     "id": "whatidid",
     "title": "whatidid",
     "description": "Turn your Copilot sessions into proof of impact — research-grounded HTML reports with effort estimation, skills analysis, and ROI metrics from local session logs.",
@@ -1341,6 +1411,7 @@
     "searchText": "whatidid turn your copilot sessions into proof of impact — research-grounded html reports with effort estimation, skills analysis, and roi metrics from local session logs. copilot productivity impact report estimation roi session-logs other microsoft external"
   },
   {
+    "type": "plugin",
     "id": "winui3-development",
     "title": "winui3-development",
     "description": "WinUI 3 and Windows App SDK development agent, instructions, and migration guide. Prevents common UWP API misuse and guides correct WinUI 3 patterns for desktop Windows apps.",

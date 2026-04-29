@@ -1,9 +1,15 @@
 {
   "_schema": "marketplace-ui/1.0",
-  "generated": "2026-04-29T05:12:00.806Z",
+  "generated": "2026-04-29T05:21:59.517Z",
   "marketplaceName": "marketplace",
   "description": "",
   "counts": {
+    "plugins": 71,
+    "agents": 0,
+    "instructions": 0,
+    "skills": 0,
+    "hooks": 0,
+    "workflows": 0,
     "total": 71,
     "local": 62,
     "external": 9,

@@ -1,6 +1,6 @@
 {
   "_schema": "marketplace-ui/1.0",
-  "generated": "2026-04-29T05:12:00.806Z",
+  "generated": "2026-04-29T05:21:59.517Z",
   "items": [
     {
       "id": "arize-ax",
@@ -22,6 +22,7 @@
         "Design"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -53,6 +54,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -81,6 +83,7 @@
         "Git & GitHub"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -112,6 +115,7 @@
         "DevOps"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/microsoft/github-copilot-for-azure",
       "homepage": "https://github.com/microsoft/azure-skills",
       "author": {
@@ -149,6 +153,7 @@
         "DevOps"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -178,6 +183,7 @@
         "DevOps"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -204,6 +210,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -232,6 +239,7 @@
         "Git & GitHub"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -262,6 +270,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": "https://www.apimatic.io",
       "author": {
@@ -299,6 +308,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -326,6 +336,7 @@
         ".NET"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -355,6 +366,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -386,6 +398,7 @@
         "Data"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -416,6 +429,7 @@
         "MCP"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/microsoft/Dataverse-skills",
       "homepage": "https://github.com/microsoft/Dataverse-skills",
       "author": {
@@ -448,6 +462,7 @@
         "Python"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -476,6 +491,7 @@
         "DevOps"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -507,6 +523,7 @@
         ".NET"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/dotnet/skills",
       "homepage": "https://github.com/dotnet/skills",
       "author": {
@@ -545,6 +562,7 @@
         ".NET"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/dotnet/skills",
       "homepage": "https://github.com/dotnet/skills",
       "author": {
@@ -579,6 +597,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -607,6 +626,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -636,6 +656,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -669,6 +690,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -699,6 +721,7 @@
         "Design"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/figma/mcp-server-guide",
       "homepage": "https://github.com/figma/mcp-server-guide",
       "author": {
@@ -736,6 +759,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -769,6 +793,7 @@
         "Design"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -803,6 +828,7 @@
         "DevOps"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -834,6 +860,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -863,6 +890,7 @@
         "Java"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -895,6 +923,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -925,6 +954,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -954,6 +984,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -988,6 +1019,7 @@
         ".NET"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/MicrosoftDocs/mcp",
       "homepage": "https://learn.microsoft.com",
       "author": {
@@ -1019,6 +1051,7 @@
         ".NET"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/dotnet/modernize-dotnet",
       "homepage": "https://github.com/dotnet/modernize-dotnet",
       "author": {
@@ -1057,6 +1090,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1087,6 +1121,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1116,6 +1151,7 @@
         ".NET"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1144,6 +1180,7 @@
         "Go"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1172,6 +1209,7 @@
         "Java"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1201,6 +1239,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1229,6 +1268,7 @@
         "Python"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1261,6 +1301,7 @@
         "Data"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1283,6 +1324,7 @@
         "Git & GitHub"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1320,6 +1362,7 @@
         "DevOps"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1348,6 +1391,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1379,6 +1423,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1409,6 +1454,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1446,6 +1492,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1476,6 +1523,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1509,6 +1557,7 @@
         "Design"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1539,6 +1588,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1567,6 +1617,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1598,6 +1649,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1627,6 +1679,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1658,6 +1711,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1688,6 +1742,7 @@
         "JavaScript / TypeScript"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1719,6 +1774,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1749,6 +1805,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1777,6 +1834,7 @@
         "Testing"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1810,6 +1868,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1842,6 +1901,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1873,6 +1933,7 @@
         "Security"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1902,6 +1963,7 @@
         "Other"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/microsoft/skills-for-copilot-studio",
       "homepage": "https://github.com/microsoft/skills-for-copilot-studio",
       "author": {
@@ -1939,6 +2001,7 @@
         "Design"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1961,6 +2024,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -1994,6 +2058,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -2021,6 +2086,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -2052,6 +2118,7 @@
         "Testing"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -2081,6 +2148,7 @@
         "MCP"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -2110,6 +2178,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -2140,6 +2209,7 @@
         "Other"
       ],
       "external": true,
+      "sourceType": "external",
       "repository": "https://github.com/microsoft/What-I-Did-Copilot",
       "homepage": "https://github.com/microsoft/What-I-Did-Copilot",
       "author": {
@@ -2173,6 +2243,7 @@
         "Other"
       ],
       "external": false,
+      "sourceType": "local",
       "repository": "https://github.com/github/awesome-copilot",
       "homepage": null,
       "author": {
@@ -2489,6 +2560,10 @@
       "Rust",
       "Security",
       "Testing"
+    ],
+    "sourceTypes": [
+      "external",
+      "local"
     ]
   }
 }
