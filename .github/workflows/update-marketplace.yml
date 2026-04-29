@@ -2,9 +2,9 @@ name: Update marketplace.json
 
 on:
   push:
-    branches: [main]
+    branches: [ main ]
     paths:
-      - 'plugins/**'
+      - "plugins/**"
   workflow_dispatch:
 
 permissions:
@@ -26,4 +26,4 @@ jobs:
           marketplace-json: .github/plugin/marketplace.json
           marketplace-name: marketplace
           marketplace-owner-name: passelin
-          dry-run: 'true'
+          dry-run: "true"

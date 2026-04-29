@@ -2,7 +2,7 @@ name: Deploy marketplace site
 
 on:
   release:
-    types: [published]
+    types: [ published ]
   workflow_dispatch:
 
 permissions:
@@ -20,7 +20,9 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           marketplace-json: .github/plugin/marketplace.json
-          marketplace-name: marketplace
+          marketplace-name: "Pierre's Marketplace"
           marketplace-owner-name: passelin
-          site-title: 'Agent Marketplace'
+          site-title: "Pierre's Agent Marketplace"
           base-path: /marketplace-test/
+          marketplace-description: "Testing the agent-marketplace-pages GitHib action for
+            deploying a marketplace site."
