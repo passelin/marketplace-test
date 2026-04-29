@@ -1,8 +1,8 @@
 {
   "_schema": "marketplace-ui/1.0",
-  "generated": "2026-04-29T05:29:13.102Z",
-  "marketplaceName": "🤖 Awesome GitHub Copilot",
-  "description": "",
+  "generated": "2026-04-29T15:10:42.810Z",
+  "marketplaceName": "Pierre's Marketplace",
+  "description": "Testing the agent-marketplace-pages GitHib action for deploying a marketplace site.",
   "counts": {
     "agents": 204,
     "instructions": 177,
