@@ -1,7 +1,8 @@
 {
   "_schema": "marketplace-ui/1.0",
-  "generated": "2026-04-29T15:10:42.810Z",
+  "generated": "2026-04-29T15:38:40.952Z",
   "marketplaceName": "Pierre's Marketplace",
+  "githubRepo": "passelin/marketplace-test",
   "description": "Testing the agent-marketplace-pages GitHib action for deploying a marketplace site.",
   "counts": {
     "agents": 204,
